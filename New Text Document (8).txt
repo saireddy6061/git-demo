@@ -1,0 +1,25 @@
+public class PrimeNumbers{
+
+public static void main(String args[]){
+
+		int num=20,n;
+		
+	
+			while(n<20){
+			if(n<=1){
+  			Syso("not a prime number")
+			}
+		
+			else if(n%2==0)
+			{
+			Syso("Number is prime"+n)	
+			}
+			else{Syso("number is not a prime"+n)}	
+		
+			}
+		    }
+
+
+		}
+
+	}
