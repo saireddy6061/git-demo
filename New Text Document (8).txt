@@ -1,5 +1,7 @@
 public class PrimeNumbers{
 
+public static boolean isPrimeNumber()
+
 public static void main(String args[]){
 
 		int num=20,n;
